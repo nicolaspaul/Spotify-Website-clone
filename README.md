@@ -1,3 +1,1 @@
-# New Project
-
-This is a project of Spotify website clone.
+This is a clone project of Spotify website. It is made using HTML & CSS.
